@@ -24,6 +24,7 @@ var app = new Vue({
   el: "#app",
   data: {
     title: "Frutas y Verduras",
+    alumna: "Jessica Francavilla",
     items: [
       {
         name: "Palta",
